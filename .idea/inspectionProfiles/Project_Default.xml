@@ -1,0 +1,69 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="55">
+            <item index="0" class="java.lang.String" itemvalue="coverage" />
+            <item index="1" class="java.lang.String" itemvalue="protobuf" />
+            <item index="2" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="3" class="java.lang.String" itemvalue="keras-bert" />
+            <item index="4" class="java.lang.String" itemvalue="keras" />
+            <item index="5" class="java.lang.String" itemvalue="grpcio" />
+            <item index="6" class="java.lang.String" itemvalue="setuptools" />
+            <item index="7" class="java.lang.String" itemvalue="numpy" />
+            <item index="8" class="java.lang.String" itemvalue="loguru" />
+            <item index="9" class="java.lang.String" itemvalue="influxdb" />
+            <item index="10" class="java.lang.String" itemvalue="l5sys" />
+            <item index="11" class="java.lang.String" itemvalue="pandas" />
+            <item index="12" class="java.lang.String" itemvalue="tqdm" />
+            <item index="13" class="java.lang.String" itemvalue="scipy" />
+            <item index="14" class="java.lang.String" itemvalue="seaborn" />
+            <item index="15" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="16" class="java.lang.String" itemvalue="xlwt" />
+            <item index="17" class="java.lang.String" itemvalue="python-Levenshtein" />
+            <item index="18" class="java.lang.String" itemvalue="faiss-cpu" />
+            <item index="19" class="java.lang.String" itemvalue="medicalner_standard" />
+            <item index="20" class="java.lang.String" itemvalue="blstm-crf-ner" />
+            <item index="21" class="java.lang.String" itemvalue="dept-predict" />
+            <item index="22" class="java.lang.String" itemvalue="symptoms-standard" />
+            <item index="23" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="24" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="25" class="java.lang.String" itemvalue="ltd-bert-sent2vec" />
+            <item index="26" class="java.lang.String" itemvalue="Keras" />
+            <item index="27" class="java.lang.String" itemvalue="jieba" />
+            <item index="28" class="java.lang.String" itemvalue="torch_nightly" />
+            <item index="29" class="java.lang.String" itemvalue="portalocker" />
+            <item index="30" class="java.lang.String" itemvalue="automaxprocs" />
+            <item index="31" class="java.lang.String" itemvalue="attaapi" />
+            <item index="32" class="java.lang.String" itemvalue="pytest" />
+            <item index="33" class="java.lang.String" itemvalue="trpc" />
+            <item index="34" class="java.lang.String" itemvalue="trpc-opentracing-tjg" />
+            <item index="35" class="java.lang.String" itemvalue="m007-metrics" />
+            <item index="36" class="java.lang.String" itemvalue="pytest-asyncio" />
+            <item index="37" class="java.lang.String" itemvalue="trpc-metrics-runtime" />
+            <item index="38" class="java.lang.String" itemvalue="tconf-python" />
+            <item index="39" class="java.lang.String" itemvalue="trpc-log-atta" />
+            <item index="40" class="java.lang.String" itemvalue="polaris-python" />
+            <item index="41" class="java.lang.String" itemvalue="trpc-metrics-m007" />
+            <item index="42" class="java.lang.String" itemvalue="pytest-cov" />
+            <item index="43" class="java.lang.String" itemvalue="pytest-mock" />
+            <item index="44" class="java.lang.String" itemvalue="trpc-naming-polaris" />
+            <item index="45" class="java.lang.String" itemvalue="concurrent-log-asyncio" />
+            <item index="46" class="java.lang.String" itemvalue="aiohttp" />
+            <item index="47" class="java.lang.String" itemvalue="tjg-opentracing" />
+            <item index="48" class="java.lang.String" itemvalue="uvloop" />
+            <item index="49" class="java.lang.String" itemvalue="standard_search" />
+            <item index="50" class="java.lang.String" itemvalue="certifi" />
+            <item index="51" class="java.lang.String" itemvalue="lxml" />
+            <item index="52" class="java.lang.String" itemvalue="requests" />
+            <item index="53" class="java.lang.String" itemvalue="urllib3" />
+            <item index="54" class="java.lang.String" itemvalue="idna" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
